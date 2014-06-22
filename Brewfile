@@ -7,6 +7,7 @@ install brew-cask
 
 install rbenv
 install ruby-build
+install docker
 
 cask install google-chrome
 cask install google-japanese-ime
